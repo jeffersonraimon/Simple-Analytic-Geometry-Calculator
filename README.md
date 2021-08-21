@@ -7,3 +7,4 @@
  # Features
  
  => Calc the distance of two coordinates
+ => Calc the medium point
